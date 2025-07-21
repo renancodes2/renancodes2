@@ -179,3 +179,13 @@ Me chamo Renan Gabriel, tenho 20 anos e sou natural de Pesqueira, Pernambuco. Es
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=renelps&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+<p>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Arenelps" target="_blank">
+    <img 
+      alt="Meus Pull Requests" 
+      title="Veja todos os PRs que criei" 
+      src="https://img.shields.io/badge/🔗%20Meus%20Pull%20Requests-acesse-blue?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" 
+    />
+  </a>
+</p>
