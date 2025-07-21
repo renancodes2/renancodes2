@@ -166,6 +166,21 @@ Me chamo Renan Gabriel, tenho 20 anos e sou natural de Pesqueira, Pernambuco. Es
 
 ### 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=renelps&show_icons=true&theme=tokyonight)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=renelps&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9)
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=renelps&show_icons=true&theme=tokyonight" 
+        alt="Estatísticas do GitHub" 
+        height="170"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=renelps&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
+        alt="Top Linguagens"
+        height="170"
+      />
+    </td>
+  </tr>
+</table>
