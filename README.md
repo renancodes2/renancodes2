@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Renan Gabriel, tenho 20 anos e sou natural de Pesqueira, Pernambuco. Estou cursando Análise e Desenvolvimento de Sistemas pela UNOPAR e gosto de transformar ideias em aplicações completas, com interfaces bem construídas e uma estrutura sólida por trás. Compartilho meus projetos e aprendizados através do [LinkedIn](https://www.linkedin.com/in/renan-gabriel-2594702a4/) e também pelo Instagram, no perfil chamado [@_renan_olv](https://www.instagram.com/_renan_olv/).
+Me chamo Renan Gabriel, tenho 20 anos e sou natural de Pesqueira, Pernambuco. Estou cursando Análise e Desenvolvimento de Sistemas pela UNOPAR e gosto de transformar ideias em aplicações completas, com interfaces bem construídas e uma estrutura sólida por trás. Compartilho meus projetos e aprendizados através do [LinkedIn](https://www.linkedin.com/in/renan-gabriel-2594702a4/).
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
   <a href="https://www.instagram.com/_renan_olv/">
