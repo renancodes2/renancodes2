@@ -13,7 +13,7 @@ Me chamo Renan Gabriel, tenho 20 anos e sou natural de Pesqueira, Pernambuco. Es
     />
   </a>
   
-  <a href="https://github.com/renelps?tab=repositories">
+  <a href="https://github.com/renancodes2?tab=repositories">
     <img 
       alt="Repositórios GitHub" 
       title="Meus repositórios públicos" 
@@ -21,11 +21,11 @@ Me chamo Renan Gabriel, tenho 20 anos e sou natural de Pesqueira, Pernambuco. Es
     />
   </a>
 
-  <a href="https://github.com/renelps?tab=stars">
+  <a href="https://github.com/renancodes2?tab=stars">
     <img 
       alt="Estrelas GitHub" 
       title="Total de estrelas no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/renelps?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+      src="https://custom-icon-badges.demolab.com/github/stars/renancodes2?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
     />
   </a>
 
@@ -170,14 +170,14 @@ Me chamo Renan Gabriel, tenho 20 anos e sou natural de Pesqueira, Pernambuco. Es
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=renelps&show_icons=true&theme=tokyonight" 
+        src="https://github-readme-stats.vercel.app/api?username=renancodes2&show_icons=true&theme=tokyonight" 
         alt="Estatísticas do GitHub" 
         height="170"
       />
     </td>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=renelps&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=renancodes2&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
         alt="Top Linguagens"
         height="170"
       />
