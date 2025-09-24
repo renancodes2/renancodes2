@@ -155,6 +155,14 @@ Me chamo Renan Gabriel, tenho 20 anos e sou natural de Pesqueira, Pernambuco. Es
 />
 <img
   align="left"
+  alt="Stripe"
+  title="Stripe"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stripe/stripe-original.svg"
+/>
+<img
+  align="left"
   alt="Docker"
   title="Docker"
   width="30px"
