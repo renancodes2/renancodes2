@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Desenvolvedor Full Stack com experiência prática em projetos avançados, integrando frontend, backend e DevOps. Atuação com arquiteturas modernas, APIs REST, autenticação, CI/CD e escalabilidade. Buscando aplicar a excelência técnica para garantir sistemas de alta performance e escalabilidade para a empresa[LinkedIn](https://www.linkedin.com/in/renan-gabriel-2594702a4/).
+Desenvolvedor Full Stack com experiência prática em projetos avançados, integrando frontend, backend e DevOps. Atuação com arquiteturas modernas, APIs REST, autenticação, CI/CD e escalabilidade. Buscando aplicar a excelência técnica para garantir sistemas de alta performance e escalabilidade para a empresa [LinkedIn](https://www.linkedin.com/in/renan-gabriel-2594702a4/).
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
   <a href="https://www.instagram.com/_renan_olv/">
