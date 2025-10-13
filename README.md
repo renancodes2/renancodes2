@@ -5,13 +5,6 @@
 Desenvolvedor Full Stack com experiência prática em projetos avançados, integrando frontend, backend e DevOps. Atuação com arquiteturas modernas, APIs REST, autenticação, CI/CD e escalabilidade. Buscando aplicar a excelência técnica para garantir sistemas de alta performance e escalabilidade para a empresa [LinkedIn](https://www.linkedin.com/in/renan-gabriel-2594702a4/).
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <a href="mailto:renanlps616@gmail.com">
-    <img 
-      alt="Outlook" 
-      title="Envie-me um e-mail no Outlook" 
-      src="https://custom-icon-badges.demolab.com/badge/Outlook-Envie-me-um-e-mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=0078D4"
-    />
-  </a>
   <a href="https://www.linkedin.com/in/renan-gabriel-2594702a4/">
     <img 
       alt="LinkedIn" 
