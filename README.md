@@ -5,30 +5,13 @@
 Desenvolvedor Full Stack com experiência prática em projetos avançados, integrando frontend, backend e DevOps. Atuação com arquiteturas modernas, APIs REST, autenticação, CI/CD e escalabilidade. Buscando aplicar a excelência técnica para garantir sistemas de alta performance e escalabilidade para a empresa [LinkedIn](https://www.linkedin.com/in/renan-gabriel-2594702a4/).
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <a href="https://www.instagram.com/_renan_olv/">
+  <a href="mailto:renanlps616@gmail.com">
     <img 
-      alt="Instagram" 
-      title="Me siga no Instagram" 
-      src="https://img.shields.io/badge/Instagram-15k-FB3958?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"
+      alt="Outlook" 
+      title="Envie-me um e-mail no Outlook" 
+      src="https://custom-icon-badges.demolab.com/badge/Outlook-Envie-me-um-e-mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=0078D4"
     />
   </a>
-  
-  <a href="https://github.com/renancodes2?tab=repositories">
-    <img 
-      alt="Repositórios GitHub" 
-      title="Meus repositórios públicos" 
-      src="https://img.shields.io/badge/Repositórios-21-6e40c9?style=for-the-badge&logo=github&logoColor=white"
-    />
-  </a>
-
-  <a href="https://github.com/renancodes2?tab=stars">
-    <img 
-      alt="Estrelas GitHub" 
-      title="Total de estrelas no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/renancodes2?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-    />
-  </a>
-
   <a href="https://www.linkedin.com/in/renan-gabriel-2594702a4/">
     <img 
       alt="LinkedIn" 
