@@ -52,6 +52,22 @@ Desenvolvedor Full Stack com experiência prática em projetos avançados, integ
 />
 <img 
     align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring Boot" 
+    title="Spring Boot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -65,14 +81,6 @@ Desenvolvedor Full Stack com experiência prática em projetos avançados, integ
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
     align="left" 
@@ -99,20 +107,12 @@ Desenvolvedor Full Stack com experiência prática em projetos avançados, integ
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-  <img 
     alt="NestJS"
     title="NestJS"
     width="30px"
     style="padding-right: 10px; vertical-align: middle;" 
     src="https://nestjs.com/img/logo-small.svg" 
-  />
+/>
 <img 
   align="left" 
   alt="API Rest"
